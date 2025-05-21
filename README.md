@@ -48,7 +48,7 @@ The application follows a simple but effective architecture:
 
 1. **Clone the repository**
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/sreyangshu05/RAG_Chatbot.git
    cd RAG_Chatbot
    ```
 
