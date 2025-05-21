@@ -1,0 +1,26 @@
+title,description
+LangChain,LangChain is a framework for building applications using language models.
+RAG,RAG stands for Retrieval-Augmented Generation which retrieves data before answering.
+Vector Store,A vector store saves document embeddings for similarity-based search.
+Embeddings,Embeddings are numerical vector representations of text used to measure semantic similarity.
+FAISS,FAISS is a library developed by Facebook for efficient similarity search and clustering of dense vectors.
+HuggingFaceEmbeddings,Provides pre-trained sentence transformers to generate text embeddings.
+Sentence Transformers,A type of transformer model fine-tuned for tasks like semantic similarity and sentence embeddings.
+Retriever,A retriever fetches relevant documents from a vector store based on a user query.
+Prompt Engineering,The practice of crafting input prompts to get desired responses from language models.
+Document Loader,Loads and parses various document formats into a standard structure for processing.
+LLM,Large Language Models are AI systems trained on massive text data for generating and understanding text.
+Chain,A chain is a sequence of components like prompts.
+Chatbot,A chatbot is a software application used to conduct online chat conversations via text or text-to-speech.
+Streamlit,An open-source app framework for building machine learning and data science web apps in Python.
+Pandas,Pandas is a Python library for data manipulation and analysis.
+Tokenizer,A tokenizer breaks down text into tokens such as words or subwords for processing by language models.
+OpenAI,OpenAI is an AI research lab and the creator of powerful language models like GPT-4.
+Context Window,The context window is the amount of input tokens a model can consider at once.
+Metadata,Metadata is additional information stored with documents to improve filtering or retrieval.
+Cosine Similarity,A metric used to measure similarity between two vectors.
+Text Splitter,Divides large documents into smaller chunks to improve retrieval and processing.
+PDF Loader,Extracts text content from PDF files for use in document pipelines.
+Pinecone,A managed vector database designed for real-time vector search and retrieval.
+Chroma,A lightweight vector database used in embedding-based search pipelines.
+LangChain Community,A collection of community-contributed tools and integrations for LangChain.
